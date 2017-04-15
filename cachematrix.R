@@ -61,4 +61,3 @@ cacheSolve <- function(x, ...) {
         x$setinv(minv)
         minv
 }
-        ## Return a matrix that is the inverse of 'x'
